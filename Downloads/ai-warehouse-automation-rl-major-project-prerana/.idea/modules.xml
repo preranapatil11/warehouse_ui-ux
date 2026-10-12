@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ai-warehouse-automation-rl-major-project-prerana.iml" filepath="$PROJECT_DIR$/.idea/ai-warehouse-automation-rl-major-project-prerana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/warehouse-rl.iml" filepath="$PROJECT_DIR$/.idea/warehouse-rl.iml" />
+    </modules>
+  </component>
+</project>

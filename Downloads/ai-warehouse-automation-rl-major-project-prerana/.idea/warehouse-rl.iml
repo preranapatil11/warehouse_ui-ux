@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="pyproject.toml" type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/ai-warehouse-automation-rl-major-project-prerana">
+      <excludeFolder url="file://$MODULE_DIR$/ai-warehouse-automation-rl-major-project-prerana/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="~\Downloads\ai-warehouse-automation-rl-major-project-prerana\ai-warehouse-automation-rl-major-project-prerana\.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
